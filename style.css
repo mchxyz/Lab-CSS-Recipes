@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+}
+
+.title {
+    padding-top: 250px;
+    color: rgb(255, 255, 255);
+    font-size: 48px;
+    font-weight: 100;
+    display: flex;
+    justify-content: center;
+}
+
+.first-paragraph {
+    padding: 100px;
+    box-sizing: border-box;
+}
+
+.time-1 {
+    padding-bottom: 100px;
+}
+
+.time-2 {
+    padding: 50px;
+}
+
+.ingredients-title {
+    padding: 20px;
+}
+
+.directions-title {
+    
+padding: 20px;
+}
+
+.first-image {
+    margin: -300px;
+    width: 1000px;
+    height: 500px;
+    display: flex;
+}
+
+/* img {
+    display: flex;
+    margin-left: 
+    justify-content: center;
+    align-items: center;
+} */
+
+.image {
+    display: grid;
+    place-items: center;
+}
